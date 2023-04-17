@@ -1,0 +1,15 @@
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\bin\Debug\net7.0\bsharp_compiler_finnish.exe
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\bin\Debug\net7.0\bsharp_compiler_finnish.deps.json
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\bin\Debug\net7.0\bsharp_compiler_finnish.runtimeconfig.json
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\bin\Debug\net7.0\bsharp_compiler_finnish.dll
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\bin\Debug\net7.0\bsharp_compiler_finnish.pdb
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.csproj.AssemblyReference.cache
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.AssemblyInfoInputs.cache
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.AssemblyInfo.cs
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.csproj.CoreCompileInputs.cache
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.dll
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\refint\bsharp_compiler_finnish.dll
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.pdb
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\bsharp_compiler_finnish.genruntimeconfig.cache
+C:\Users\Eetu\Desktop\bsharp_compiler_finnish\obj\Debug\net7.0\ref\bsharp_compiler_finnish.dll
